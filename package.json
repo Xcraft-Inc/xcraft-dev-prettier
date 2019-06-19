@@ -1,0 +1,12 @@
+{
+  "name": "xcraft-dev-prettier",
+  "version": "1.0.0",
+  "description": "Xcraft Prettier settings",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["xcraft", "devel"],
+  "author": "Mathieu Schroeter",
+  "license": "MIT"
+}
